@@ -1,0 +1,10 @@
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\bin\Debug\CBROperationPromotionDecode.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\bin\Debug\CBROperationPromotionDecode.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\obj\Debug\PipelineComponents.OperationPromotion.CBROperationPromotionDecode.resources
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\obj\Debug\BizTalk.PipelineComponents.CBROperationPromotionDecode.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\obj\Debug\CBROperationPromotionDecode.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBROperationPromotionDecode\obj\Debug\CBROperationPromotionDecode.pdb
