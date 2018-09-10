@@ -11,3 +11,10 @@ BizTalk PipelineComponents Extensions UtilityPack is a set of custom pipeline co
 
 * Content Based Routing Component to promote Operation property.
   * This component doesn't requires any configuration. Then it will take the value (word) which lies ahead of the cardinal (#) from the MessageType message context property and promote it to the Operation Message Context Property.
+
+## Deploying Pipeline Components
+All the .NET pipeline component assemblies (native and custom) must be located in the <installation directory>\Pipeline Components folder to be executed by the server. If the pipeline with a custom component will be deployed across several servers, the component's binaries must be present in the specified folder on every server.
+
+You do not need to add a custom pipeline component to be used by the BizTalk Runtime to the Global Assembly Cache (GAC).
+
+To know more about Deploying Pipeline Components, please see: [Deploying Pipeline Components](https://docs.microsoft.com/en-us/biztalk/core/deploying-pipeline-components)
