@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode", "BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode.csproj", "{7B0E5208-2F55-4143-A683-F61275CC1F14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.CBRIdocOperationPromotionEncode", "BizTalk.PipelineComponents.CBRIdocOperationPromotionEncode\BizTalk.PipelineComponents.CBRIdocOperationPromotionEncode.csproj", "{7B0E5208-2F55-4143-A683-F61275CC1F14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.CBROperationPromotionDecode", "BizTalk.PipelineComponents.CBROperationPromotionDecode\BizTalk.PipelineComponents.CBROperationPromotionDecode.csproj", "{6E9265A6-3B2B-4423-B444-AECB52EB12EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.CBROperationPromotionEncode", "BizTalk.PipelineComponents.CBROperationPromotionEncode\BizTalk.PipelineComponents.CBROperationPromotionEncode.csproj", "{6E9265A6-3B2B-4423-B444-AECB52EB12EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
