@@ -4,12 +4,12 @@ BizTalk PipelineComponents Extensions UtilityPack is a set of custom pipeline co
 ![BizTalk PipelineComponents Extensions UtilityPack](media/BizTalk-PipelineComponents-Extensions-UtilityPack.png)
 
 ## Content-Based Routing
-### CBRIdocOperationPromotionDecode
+### CBRIdocOperationPromotionEncode
 
 * Content Based Routing Component to promote IDOC Operation property.
   * This component requires one configuration that is the MessageType string to be ignored. Then it will take the last string (word) from the MessageType Message Context Property and promote it to the Operation Message Context Property.
 
-### CBROperationPromotionDecode
+### CBROperationPromotionEncode
 
 * Content Based Routing Component to promote Operation property.
   * This component doesn't requires any configuration. Then it will take the value (word) which lies ahead of the cardinal (#) from the MessageType message context property and promote it to the Operation Message Context Property.
