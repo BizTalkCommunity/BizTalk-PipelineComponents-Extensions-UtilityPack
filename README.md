@@ -1,7 +1,7 @@
-# BizTalk PipelineComponents Extensions UtilityPack
-BizTalk PipelineComponents Extensions UtilityPack is a set of custom pipeline components (libraries) with several custom pipeline components that can be used in received and sent pipelines, which will provide an extension of BizTalk out-of-the-box pipeline capabilities.
+# BizTalk Pipeline Components Extensions Utility Pack
+BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline components (libraries) with several custom pipeline components that can be used in received and sent pipelines, which will provide an extension of BizTalk out-of-the-box pipeline capabilities.
 
-![BizTalk PipelineComponents Extensions UtilityPack](media/BizTalk-PipelineComponents-Extensions-UtilityPack.png)
+![BizTalk Pipeline Components Extensions Utility Pack](media/BizTalk-PipelineComponents-Extensions-UtilityPack.png)
 
 ## Content-Based Routing
 ### CBRIdocOperationPromotionEncode
