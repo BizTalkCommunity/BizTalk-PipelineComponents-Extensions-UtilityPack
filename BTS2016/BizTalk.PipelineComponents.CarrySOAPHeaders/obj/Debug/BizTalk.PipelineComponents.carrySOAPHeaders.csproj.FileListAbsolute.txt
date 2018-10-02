@@ -18,3 +18,4 @@ C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\Bi
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CarrySOAPHeaders\obj\Debug\BizTalk.PipelineComponents.CarrySOAPHeaders.csproj.GenerateResource.Cache
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CarrySOAPHeaders\obj\Debug\CarrySOAPHeader.dll
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CarrySOAPHeaders\obj\Debug\CarrySOAPHeader.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CarrySOAPHeaders\obj\Debug\BizTalk.PipelineComponents.CarrySOAPHeaders.csprojResolveAssemblyReference.cache

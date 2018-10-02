@@ -14,8 +14,8 @@ namespace BizTalk.PipelineComponents.BypassSOAPHeader
     using Microsoft.BizTalk.Component;
     using Microsoft.BizTalk.Messaging;
     using Microsoft.BizTalk.Streaming;
-    
-    
+    using System.Xml.Linq;
+
     [ComponentCategory(CategoryTypes.CATID_PipelineComponent)]
     [System.Runtime.InteropServices.Guid("a8631a83-ccf5-4bfd-a2c2-a7692d20a985")]
     [ComponentCategory(CategoryTypes.CATID_Any)]
@@ -229,7 +229,11 @@ namespace BizTalk.PipelineComponents.BypassSOAPHeader
 
                 if (!string.IsNullOrEmpty(soapHeader))
                 {
-                    string outboundHeader = "<headers>" + soapHeader + "</headers>";
+                    XDocument xdoc = XDocument.Parse(soapHeader);
+                    xdoc.Declaration = null;
+                    Console.WriteLine(xdoc.ToString().Replace(System.Environment.NewLine, ""));
+
+                    string outboundHeader = "<headers>" + xdoc.ToString().Replace(System.Environment.NewLine, "") + "</headers>";
 
                     inmsg.Context.Promote("IsDynamicSend", "http://schemas.microsoft.com/BizTalk/2003/system-properties", true);
                     inmsg.Context.Write("OutboundCustomHeaders", "http://schemas.microsoft.com/BizTalk/2006/01/Adapters/WCF-properties", outboundHeader);
