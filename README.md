@@ -3,7 +3,7 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 
 ![BizTalk Pipeline Components Extensions Utility Pack](media/BizTalk-PipelineComponents-Extensions-UtilityPack.png)
 
-## Content-Based Routing
+## Content-Based Routing Operations
 ### CBRIdocOperationPromotionEncode
 
 * Content Based Routing Component to promote IDOC Operation property.
@@ -13,9 +13,14 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 
 * Content Based Routing Component to promote Operation property.
   * This component doesn't requires any configuration. Then it will take the value (word) which lies ahead of the cardinal (#) from the MessageType message context property and promote it to the Operation Message Context Property.
+
+### Carry SOAPHeader To WCF-BasicHttp Pipeline Component
+
+* Content Based Routing Component to carry forward the received SOAP Header to the ougoing message.
+  * This component will access the original SOAP Header received in the source message and add it to the destination messages: OutboundCustomHeaders property (used by the WCF-BasicHTTP Adapter)
+  * This component requires one configuration that is the SOAPHeaderName. A string that descrives the custom SOAP Header name to be copied to the ougoing message.
   
-  
-## Compression
+## Compression Operations
 ### Multi-Part Message Attachments Zipper Pipeline Component
 
 * The BizTalk Multi-Part Message Attachments Zipper is a pipeline component for BizTalk Server which can be used in a send pipeline and is intended to replace all attachments of a multi-part message for its zipped equivalent.

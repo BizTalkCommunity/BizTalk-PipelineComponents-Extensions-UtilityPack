@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.MultiPartMsg.ZipAttach", "BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach.csproj", "{113E1ECA-DE91-4E6C-9C9C-FECB942E29FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.CarrySOAPHeaders", "BizTalk.PipelineComponents.CarrySOAPHeaders\BizTalk.PipelineComponents.CarrySOAPHeaders.csproj", "{6A936147-E8F6-4472-AEC6-0B8E9545484D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{113E1ECA-DE91-4E6C-9C9C-FECB942E29FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{113E1ECA-DE91-4E6C-9C9C-FECB942E29FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{113E1ECA-DE91-4E6C-9C9C-FECB942E29FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A936147-E8F6-4472-AEC6-0B8E9545484D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A936147-E8F6-4472-AEC6-0B8E9545484D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A936147-E8F6-4472-AEC6-0B8E9545484D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A936147-E8F6-4472-AEC6-0B8E9545484D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
