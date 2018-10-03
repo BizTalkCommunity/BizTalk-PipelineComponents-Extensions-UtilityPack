@@ -4,7 +4,6 @@ C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\Bi
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\Microsoft.XLANGs.Engine.dll
-C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach.csprojResolveAssemblyReference.cache
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BiztalkPipelineComponentMultipartMsgZipAttach.PipelineComponentMultipartMsgZipAttach.resources
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach.csproj.GenerateResource.Cache
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\PipelineComponentMultipartMsgZipAttach.dll

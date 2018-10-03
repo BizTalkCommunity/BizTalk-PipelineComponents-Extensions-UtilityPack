@@ -23,11 +23,17 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 ## Compression Operations
 ### Multi-Part Message Attachments Zipper Pipeline Component
 
-* The BizTalk Multi-Part Message Attachments Zipper is a pipeline component for BizTalk Server which can be used in a send pipeline and is intended to replace all attachments of a multi-part message for its zipped equivalent.
+* The BizTalk Multi-Part Message Attachments Zipper is a pipeline component for BizTalk Server which can be used in a send pipeline and is intended to compress (zip/gzip) outgoing messages.
 * The capabilities are similar to those available in compression software such as WinZip or 7-zip:
   * Attachments Compression – Extracts, in a send pipeline, all message parts include in a multi-part message that are not included in the message body (Message Body Part = False), compresses it and attaches the compressed attachment back to the message..
   * This component requires one configuration that is the FileExtension where you can specified if you want for example a .zip or .gz file.
 
+### Zip Pipeline Component
+
+* The Zip pipeline component is a pipeline component for BizTalk Server which can be used in a send pipeline (encode stage) and is intended to replace all attachments of a multi-part message for its zipped equivalent.
+* The capabilities are similar to those available in compression software such as WinZip or 7-zip:
+  * This component requires two configuration that is the "FileExtension" where you can specified if you want for example a .zip or .gz file and "Enabled" that is a true or false value to activate the compression.
+  
 ## Deploying Pipeline Components
 All the .NET pipeline component assemblies (native and custom) must be located in the <installation directory>\Pipeline Components folder to be executed by the server. If the pipeline with a custom component will be deployed across several servers, the component's binaries must be present in the specified folder on every server.
 
