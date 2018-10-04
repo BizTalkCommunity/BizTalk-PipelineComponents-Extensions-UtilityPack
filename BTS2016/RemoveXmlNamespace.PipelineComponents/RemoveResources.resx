@@ -117,17 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="COMPONENTNAME" xml:space="preserve">
-    <value>Zip File Pipeline Component</value>
-  </data>
   <data name="COMPONENTDESCRIPTION" xml:space="preserve">
-    <value>Pipeline component that Removes XML Namespace from the message.</value>
-  </data>
-  <data name="COMPONENTVERSION" xml:space="preserve">
-    <value>1.0.0.0</value>
+    <value>Pipeline component that replaces the message in a send message pipeline for its zipped equivalent.</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="COMPONENTICON" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>zipfile.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>namespace_remove.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="COMPONENTNAME" xml:space="preserve">
+    <value>Xml Namespace Remover</value>
+  </data>
+  <data name="COMPONENTVERSION" xml:space="preserve">
+    <value>1.0.0.0</value>
   </data>
 </root>

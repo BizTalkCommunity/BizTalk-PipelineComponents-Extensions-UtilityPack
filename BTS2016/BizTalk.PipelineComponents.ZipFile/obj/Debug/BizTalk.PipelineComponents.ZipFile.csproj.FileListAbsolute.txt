@@ -19,4 +19,3 @@ C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\Bi
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.ZipFile\obj\Debug\BizTalk.PipelineComponents.ZipFile.csproj.GenerateResource.Cache
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.ZipFile\obj\Debug\BizTalk.PipelineComponents.ZipFile.dll
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.ZipFile\obj\Debug\BizTalk.PipelineComponents.ZipFile.pdb
-C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.ZipFile\obj\Debug\BizTalk.PipelineComponents.ZipFile.csprojResolveAssemblyReference.cache

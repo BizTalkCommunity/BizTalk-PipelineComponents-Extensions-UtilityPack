@@ -1,0 +1,10 @@
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\bin\Debug\RemoveXmlNamespace.PipelineComponents.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\bin\Debug\RemoveXmlNamespace.PipelineComponents.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.RemoveResources.resources
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.csproj.GenerateResource.Cache

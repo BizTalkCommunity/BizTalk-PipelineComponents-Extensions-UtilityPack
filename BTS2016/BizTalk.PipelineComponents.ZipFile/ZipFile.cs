@@ -61,11 +61,12 @@ namespace BizTalk.PipelineComponents.ZipFile
 
         #region IComponentUI
 
+        [Browsable(false)]
         public IntPtr Icon
         {
             get
             {
-                return new IntPtr();
+                return ((System.Drawing.Bitmap)(this.resourceManager.GetObject("COMPONENTICON", System.Globalization.CultureInfo.InvariantCulture))).GetHicon();
             }
         }
 

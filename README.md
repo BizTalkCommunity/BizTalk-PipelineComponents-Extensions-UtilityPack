@@ -34,6 +34,12 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 * The capabilities are similar to those available in compression software such as WinZip or 7-zip:
   * This component requires two configuration that is the "FileExtension" where you can specified if you want for example a .zip or .gz file and "Enabled" that is a true or false value to activate the compression.
   
+## XML Namespace Operations
+### Remove Xml Namespace Pipeline Component
+
+* The RemoveXmlNamespace is a pipeline component for BizTalk Server made by Johan Hedberg which can be used to remove Xml namespaces from Xml documents inside custom pipelines.
+  * This have the availability to transform this <ns0:Blah xmlns:ns0="http://RemoveXmlNamespace.BTS.BlahMessage"> into this <Blah>:
+
 ## Deploying Pipeline Components
 All the .NET pipeline component assemblies (native and custom) must be located in the <installation directory>\Pipeline Components folder to be executed by the server. If the pipeline with a custom component will be deployed across several servers, the component's binaries must be present in the specified folder on every server.
 
