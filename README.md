@@ -34,6 +34,12 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 * The capabilities are similar to those available in compression software such as WinZip or 7-zip:
   * This component requires two configuration that is the "FileExtension" where you can specified if you want for example a .zip or .gz file and "Enabled" that is a true or false value to activate the compression.
   
+  ### UnZip File Pipeline Component
+
+* This UnZip File Pipeline Component for BizTalk Server which can be used in a Received pipeline (Disassemble stage) and it allows you to receive a compress (zip/gzip) file and extract its contents into different XML messages.
+* The capabilities are similar to those available in compression software such as WinZip or 7-zip:
+  * This component doesn't requires any configurations.
+  
 ## XML Namespace Operations
 ### Remove Xml Namespace Pipeline Component
 

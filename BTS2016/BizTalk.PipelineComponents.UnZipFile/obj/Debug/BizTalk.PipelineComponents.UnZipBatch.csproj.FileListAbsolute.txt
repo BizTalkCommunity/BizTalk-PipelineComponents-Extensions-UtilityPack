@@ -1,0 +1,11 @@
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\bin\Debug\BizTalk.PipelineComponents.UnZipBatch.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\bin\Debug\BizTalk.PipelineComponents.UnZipBatch.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.UnZipBatch.resources
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.csprojResolveAssemblyReference.cache
