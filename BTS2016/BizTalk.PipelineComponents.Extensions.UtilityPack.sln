@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveXmlNamespace.Pipeline
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.UnZipBatch", "BizTalk.PipelineComponents.UnZipFile\BizTalk.PipelineComponents.UnZipBatch.csproj", "{DB257CF2-C67E-4D80-B1D4-2462F96DDA2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.ZipFile", "BizTalk.PipelineComponents.ZipFile\BizTalk.PipelineComponents.ZipFile.csproj", "{4527BED9-9041-4334-BDAB-588B963F52D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualGreen.Samples.MultiDisassembler.PipelineComponents", "VirtualGreen.Samples.MultiDisassembler.PipelineComponents\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.csproj", "{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{DB257CF2-C67E-4D80-B1D4-2462F96DDA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB257CF2-C67E-4D80-B1D4-2462F96DDA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB257CF2-C67E-4D80-B1D4-2462F96DDA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4527BED9-9041-4334-BDAB-588B963F52D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4527BED9-9041-4334-BDAB-588B963F52D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4527BED9-9041-4334-BDAB-588B963F52D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4527BED9-9041-4334-BDAB-588B963F52D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

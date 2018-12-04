@@ -46,6 +46,12 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 * The RemoveXmlNamespace is a pipeline component for BizTalk Server made by Johan Hedberg which can be used to remove Xml namespaces from Xml documents inside custom pipelines.
   * This have the availability to transform this <ns0:Blah xmlns:ns0="http://RemoveXmlNamespace.BTS.BlahMessage"> into this <Blah>:
 
+## Samples Multi-Disassembler Operations
+### ExtractingXmlDisassembler
+
+* Demonstration execise in with the first stage will be is a FF dasm, followed by a Xml dasm. This sample maybe will not very useful in real case scenarios, but it shows the principle and it avoids 3rd party components.
+  * Credits: Peter Vervoorn from Virtual Green.
+  
 ## Deploying Pipeline Components
 All the .NET pipeline component assemblies (native and custom) must be located in the <installation directory>\Pipeline Components folder to be executed by the server. If the pipeline with a custom component will be deployed across several servers, the component's binaries must be present in the specified folder on every server.
 
