@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponent.MultiPartMsg.ZipAttach", "BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.csproj", "{3E0D97B0-7014-453C-A056-855A6EC7F308}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs06
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BizTalk.Pipeline.MultiPartMsg.ZipAttach\\BizTalk.Pipeline.MultiPartMsg.ZipAttach.btproj
+		SccProjectName1 = BizTalk.Pipeline.MultiPartMsg.ZipAttach
+		SccLocalPath1 = BizTalk.Pipeline.MultiPartMsg.ZipAttach
+		SccProjectUniqueName2 = BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.csproj
+		SccProjectName2 = BizTalk.PipelineComponent.MultiPartMsg.ZipAttach
+		SccLocalPath2 = BizTalk.PipelineComponent.MultiPartMsg.ZipAttach
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0D97B0-7014-453C-A056-855A6EC7F308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0D97B0-7014-453C-A056-855A6EC7F308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0D97B0-7014-453C-A056-855A6EC7F308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0D97B0-7014-453C-A056-855A6EC7F308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

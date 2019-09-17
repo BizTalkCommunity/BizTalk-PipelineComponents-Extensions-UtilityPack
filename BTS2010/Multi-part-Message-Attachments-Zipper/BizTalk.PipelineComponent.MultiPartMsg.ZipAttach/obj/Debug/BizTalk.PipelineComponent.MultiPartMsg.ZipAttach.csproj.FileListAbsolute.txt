@@ -1,0 +1,16 @@
+C:\Development\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\bin\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.dll
+C:\Development\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\bin\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.pdb
+C:\Development\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.MultiPartMsgZipAttach.resources
+C:\Development\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.dll
+C:\Development\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.pdb
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\bin\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\bin\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.pdb
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.MultiPartMsgZipAttach.resources
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponent.MultiPartMsg.ZipAttach.pdb
