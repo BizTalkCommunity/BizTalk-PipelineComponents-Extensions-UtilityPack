@@ -52,7 +52,7 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 * Demonstration execise in with the first stage will be is a FF dasm, followed by a Xml dasm. This sample maybe will not very useful in real case scenarios, but it shows the principle and it avoids 3rd party components.
   * Credits: Peter Vervoorn from Virtual Green.
   
-## Encoders ans Decoders
+## Encoders and Decoders
 ### JSON Encoder
 
 * The JSON Encoder is a pipeline component for BizTalk Server which can be used in a Send Pipeline (Encode stage) to encode any XML message into a JSON equivalent.
