@@ -1,0 +1,11 @@
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\bin\Debug\BizTalk.PipelineComponents.JSONEncoder.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\bin\Debug\BizTalk.PipelineComponents.JSONEncoder.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\obj\Debug\BizTalk.PipelineComponents.JSONEncoder.JSONEncoder.resources
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\obj\Debug\BizTalk.PipelineComponents.JSONEncoder.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\obj\Debug\BizTalk.PipelineComponents.JSONEncoder.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\obj\Debug\BizTalk.PipelineComponents.JSONEncoder.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.JSONEncoder\obj\Debug\BizTalk.PipelineComponents.JSONEncoder.csprojResolveAssemblyReference.cache

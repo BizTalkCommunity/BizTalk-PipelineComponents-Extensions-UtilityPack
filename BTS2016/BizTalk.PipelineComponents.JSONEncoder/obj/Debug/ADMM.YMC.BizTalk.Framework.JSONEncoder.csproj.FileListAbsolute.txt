@@ -1,0 +1,11 @@
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\bin\Debug\ADMM.YMC.BizTalk.Framework.JSONEncoder.dll
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\bin\Debug\ADMM.YMC.BizTalk.Framework.JSONEncoder.pdb
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\obj\Debug\ADMM.YMC.BizTalk.Framework.JSONEncoder.JSONEncoder.resources
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\obj\Debug\ADMM.YMC.BizTalk.Framework.JSONEncoder.csproj.GenerateResource.Cache
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\obj\Debug\ADMM.YMC.BizTalk.Framework.JSONEncoder.dll
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\obj\Debug\ADMM.YMC.BizTalk.Framework.JSONEncoder.pdb
+C:\TFS\YMC\YMC ESB\ADMM.YMC.BizTalk.Framework\ADMM.YMC.BizTalk.Framework.JSONEncoder\obj\Debug\ADMM.YMC.BizTalk.Framework.JSONEncoder.csprojResolveAssemblyReference.cache

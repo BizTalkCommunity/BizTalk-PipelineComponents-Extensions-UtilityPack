@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualGreen.Samples.MultiDisassembler.PipelineComponents", "VirtualGreen.Samples.MultiDisassembler.PipelineComponents\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.csproj", "{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.LocalFolderArchive", "BizTalk.PipelineComponents.LocalFolderArchive\BizTalk.PipelineComponents.LocalFolderArchive.csproj", "{BD2180B1-BE45-4BE8-9B4E-2B4BA7DA4725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.SQLPollDebatchByFilter", "BizTalk.PipelineComponents.SQLPollDebatchByFilter\BizTalk.PipelineComponents.SQLPollDebatchByFilter.csproj", "{F55BFA89-2932-4A00-A2E6-803E59029F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.JSONEncoder", "BizTalk.PipelineComponents.JSONEncoder\BizTalk.PipelineComponents.JSONEncoder.csproj", "{E97796BA-589A-4BC2-A164-62FB2BE2616A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +63,18 @@ Global
 		{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DB93D4C-DF46-4FDA-989B-37E5D41DFD48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2180B1-BE45-4BE8-9B4E-2B4BA7DA4725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2180B1-BE45-4BE8-9B4E-2B4BA7DA4725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2180B1-BE45-4BE8-9B4E-2B4BA7DA4725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2180B1-BE45-4BE8-9B4E-2B4BA7DA4725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55BFA89-2932-4A00-A2E6-803E59029F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55BFA89-2932-4A00-A2E6-803E59029F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55BFA89-2932-4A00-A2E6-803E59029F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55BFA89-2932-4A00-A2E6-803E59029F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97796BA-589A-4BC2-A164-62FB2BE2616A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97796BA-589A-4BC2-A164-62FB2BE2616A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97796BA-589A-4BC2-A164-62FB2BE2616A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97796BA-589A-4BC2-A164-62FB2BE2616A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

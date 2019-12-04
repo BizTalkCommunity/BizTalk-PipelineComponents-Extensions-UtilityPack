@@ -6,3 +6,4 @@ C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\Vi
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
 C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.csprojResolveAssemblyReference.cache

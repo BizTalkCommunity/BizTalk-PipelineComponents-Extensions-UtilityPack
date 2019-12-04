@@ -1,0 +1,10 @@
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\bin\Debug\SQLPollDebatchByFilter.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\bin\Debug\SQLPollDebatchByFilter.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\obj\Debug\BizTalk.PipelineComponents.SQLPollDebatchByFilter.SQLPollDebatchByFilter.resources
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\obj\Debug\BizTalk.PipelineComponents.SQLPollDebatchByFilter.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\obj\Debug\SQLPollDebatchByFilter.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SQLPollDebatchByFilter\obj\Debug\SQLPollDebatchByFilter.pdb
