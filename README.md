@@ -52,6 +52,15 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 * Demonstration execise in with the first stage will be is a FF dasm, followed by a Xml dasm. This sample maybe will not very useful in real case scenarios, but it shows the principle and it avoids 3rd party components.
   * Credits: Peter Vervoorn from Virtual Green.
   
+## Encoders ans Decoders
+### JSON Encoder
+
+* The JSON Encoder is a pipeline component for BizTalk Server which can be used in a Send Pipeline (Encode stage) to encode any XML message into a JSON equivalent.
+  * This pipeline component is an extension of the default JSON Encoder pipeline component and fully compatible with it. 
+  * In BizTalk Administration console you will be able to: 
+    * select if you want to use the behavior of the default JSON Encoder pipeline component provide by Microsoft;
+	* or use the custom behavior to generate the JSON message;
+  
 ## Deploying Pipeline Components
 All the .NET pipeline component assemblies (native and custom) must be located in the <installation directory>\Pipeline Components folder to be executed by the server. If the pipeline with a custom component will be deployed across several servers, the component's binaries must be present in the specified folder on every server.
 
