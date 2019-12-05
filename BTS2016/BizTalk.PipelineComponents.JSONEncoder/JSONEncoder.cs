@@ -1,4 +1,4 @@
-namespace BizTalk.PipelineComponents.JSONEncoder
+namespace PipelineComponents.JSONEncoder
 {
     using Microsoft.BizTalk.Common.JsonExtension;
     using Microsoft.BizTalk.Component.Interop;
@@ -21,12 +21,12 @@ namespace BizTalk.PipelineComponents.JSONEncoder
 
 
     [ComponentCategory(CategoryTypes.CATID_PipelineComponent)]
-    [System.Runtime.InteropServices.Guid("b8eef8b9-e9cf-4d07-a64d-7f190b124c40")]
+    [System.Runtime.InteropServices.Guid("11548257-0956-4de0-80ac-2cdc9c937311")]
     [ComponentCategory(CategoryTypes.CATID_Encoder)]
     public class JSONEncoder : Microsoft.BizTalk.Component.Interop.IComponent, IBaseComponent, IPersistPropertyBag, IComponentUI
     {
         
-        private System.Resources.ResourceManager resourceManager = new System.Resources.ResourceManager("BizTalk.PipelineComponents.JSONEncoder", Assembly.GetExecutingAssembly());
+        private System.Resources.ResourceManager resourceManager = new System.Resources.ResourceManager("PipelineComponents.JSONEncoder.JSONEncoder", Assembly.GetExecutingAssembly());
         
         private bool _RemoveOuterEnvelope;
         

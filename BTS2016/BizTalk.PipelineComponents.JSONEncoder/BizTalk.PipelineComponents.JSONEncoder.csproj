@@ -7,8 +7,8 @@
     <ProjectGuid>{E97796BA-589A-4BC2-A164-62FB2BE2616A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BizTalk.PipelineComponents.JSONEncoder</RootNamespace>
-    <AssemblyName>BizTalk.PipelineComponents.JSONEncoder</AssemblyName>
+    <RootNamespace>PipelineComponents.JSONEncoder</RootNamespace>
+    <AssemblyName>CustomJSONEncoder</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -67,7 +67,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="JSONEncoder.resx" />
+    <EmbeddedResource Include="JSONEncoder.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="BizTalkComponents.snk" />

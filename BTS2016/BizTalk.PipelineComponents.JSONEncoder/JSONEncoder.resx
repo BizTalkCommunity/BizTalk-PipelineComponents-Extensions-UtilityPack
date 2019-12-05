@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="COMPONENTNAME" xml:space="preserve">
-    <value>AESB JSONEncoder</value>
+    <value>Custom JSONEncoder</value>
   </data>
   <data name="COMPONENTDESCRIPTION" xml:space="preserve">
     <value>Pipeline component to encode XML to JSON</value>
   </data>
   <data name="COMPONENTVERSION" xml:space="preserve">
-    <value>1.1.0.0</value>
+    <value>1.2.0.0</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="COMPONENTICON" type="System.Resources.ResXFileRef, System.Windows.Forms">
