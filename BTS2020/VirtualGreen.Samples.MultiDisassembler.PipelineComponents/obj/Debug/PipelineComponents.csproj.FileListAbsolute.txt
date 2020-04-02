@@ -1,0 +1,14 @@
+P:\pjv.virtualgreen\VirtualGreen\Samples\MultiDisassembler\PipelineComponents\obj\Debug\PipelineComponents.csprojResolveAssemblyReference.cache
+P:\pjv.virtualgreen\VirtualGreen\Samples\MultiDisassembler\PipelineComponents\bin\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.dll
+P:\pjv.virtualgreen\VirtualGreen\Samples\MultiDisassembler\PipelineComponents\bin\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.pdb
+P:\pjv.virtualgreen\VirtualGreen\Samples\MultiDisassembler\PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.dll
+P:\pjv.virtualgreen\VirtualGreen\Samples\MultiDisassembler\PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.pdb
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\obj\Debug\PipelineComponents.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.dll
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.pdb
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\bin\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.dll
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\bin\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.pdb
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Users\Administrator\Desktop\MultiDisassembler\MultiDisassembler\PipelineComponents\bin\Debug\Microsoft.XLANGs.Engine.dll

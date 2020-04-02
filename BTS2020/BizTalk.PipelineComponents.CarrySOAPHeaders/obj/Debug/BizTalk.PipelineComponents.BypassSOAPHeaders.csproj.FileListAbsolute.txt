@@ -1,0 +1,10 @@
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\bin\Debug\BypassSOAPHeader.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\bin\Debug\BypassSOAPHeader.pdb
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\obj\Debug\BizTalk.PipelineComponents.BypassSOAPHeader.BypassSOAPHeader.resources
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\obj\Debug\BizTalk.PipelineComponents.BypassSOAPHeaders.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\obj\Debug\BypassSOAPHeader.dll
+C:\Development\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.BypassSOAPHeaders\obj\Debug\BypassSOAPHeader.pdb
