@@ -1,0 +1,39 @@
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.XmlCompleteValidator.resources
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.csproj.GenerateResource.cache
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.csproj.CoreCompileInputs.cache
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.pdb
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\XmlCompleteValidator.xml
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\saxon9he-api.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\saxon9he.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\IKVM.Runtime.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.csprojAssemblyReference.cache
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.csproj.CopyComplete
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.dll
+C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\XmlCompleteValidator.xml
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\saxon9he-api.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\saxon9he.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\IKVM.Runtime.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.XmlCompleteValidator.resources
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.pdb

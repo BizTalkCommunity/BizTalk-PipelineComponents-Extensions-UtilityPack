@@ -26,3 +26,21 @@ C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.Pi
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.csproj.CopyComplete
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.dll
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\BizTalk.PipelineComponents.UnZipBatch.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\BizTalk.PipelineComponents.UnZipBatch.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\saxon9he-api.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\saxon9he.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\IKVM.Runtime.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.UnZipBatch.resources
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.UnZipFile\obj\Debug\BizTalk.PipelineComponents.UnZipBatch.pdb

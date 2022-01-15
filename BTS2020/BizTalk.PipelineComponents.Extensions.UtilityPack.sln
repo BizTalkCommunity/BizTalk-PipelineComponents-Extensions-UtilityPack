@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode", "BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode.csproj", "{7B0E5208-2F55-4143-A683-F61275CC1F14}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.NamespaceMgmt", "BizTalk.PipelineComponents.NamespaceMgmt\BizTalk.PipelineComponents.NamespaceMgmt.csproj", "{85CD4255-7997-4AC5-B5EE-D335ED825396}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.NamespaceStripper", "BizTalk.PipelineComponents.NamespaceStripper\BizTalk.PipelineComponents.NamespaceStripper.csproj", "{37AF637C-2901-4F6B-AA36-3505A1F63C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.XmlCompleteValidator", "BizTalk.PipelineComponents.XmlCompleteValidator\BizTalk.PipelineComponents.XmlCompleteValidator.csproj", "{F255F328-B1F7-4954-9427-EAB0D468DB50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,8 +89,15 @@ Global
 		{37AF637C-2901-4F6B-AA36-3505A1F63C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37AF637C-2901-4F6B-AA36-3505A1F63C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37AF637C-2901-4F6B-AA36-3505A1F63C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F255F328-B1F7-4954-9427-EAB0D468DB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F255F328-B1F7-4954-9427-EAB0D468DB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F255F328-B1F7-4954-9427-EAB0D468DB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F255F328-B1F7-4954-9427-EAB0D468DB50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {014AD835-9E7F-495F-A579-7F5A6B4EB817}
 	EndGlobalSection
 EndGlobal
