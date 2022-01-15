@@ -40,7 +40,7 @@ namespace BizTalk.PipelineComponents.XmlCompleteValidator
     [ComponentCategory(CategoryTypes.CATID_Validate)]
     public class XmlCompleteValidator : Microsoft.BizTalk.Component.Interop.IComponent, IBaseComponent, IPersistPropertyBag, IComponentUI
     {
-        private ResourceManager _resourceManager = new ResourceManager("BizTalk.PipelineComponents.XmlCompleteValidator", Assembly.GetExecutingAssembly());
+        private ResourceManager _resourceManager = new ResourceManager("BizTalk.PipelineComponents.XmlCompleteValidator.XmlCompleteValidator", Assembly.GetExecutingAssembly());
 		private static PropertyBase _documentSpecNameProperty;
 		private string _concatDocSpecNames;
 		private string _concatDocSpecTargetNamespaces;

@@ -19,7 +19,6 @@ C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents
 C:\DEV\More Tools\XmlCompleteValidator_v1.0\obj\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.pdb
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.dll
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\BizTalk.PipelineComponents.XmlCompleteValidator.pdb
-C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\XmlCompleteValidator.xml
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\saxon9he-api.dll
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.XmlCompleteValidator\bin\Debug\IKVM.OpenJDK.XML.API.dll
