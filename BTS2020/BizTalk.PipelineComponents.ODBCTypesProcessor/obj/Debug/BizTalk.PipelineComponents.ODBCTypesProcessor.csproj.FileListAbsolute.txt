@@ -1,0 +1,40 @@
+C:\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\BizTalk.PipelineComponents.ODBCTypesProcessor.dll
+C:\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\BizTalk.PipelineComponents.ODBCTypesProcessor.pdb
+C:\Program Files (x86)\Microsoft BizTalk Server\Pipeline Components\BizTalk.PipelineComponents.ODBCTypesProcessor.dll
+C:\Program Files (x86)\Microsoft BizTalk Server\Pipeline Components\BizTalk.PipelineComponents.ODBCTypesProcessor.pdb
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.Resource.resources
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.csproj.GenerateResource.cache
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.csproj.CoreCompileInputs.cache
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.csproj.CopyComplete
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.pdb
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.pdb
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\saxon9he-api.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\saxon9he.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.Runtime.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DEV\More Tools\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.pdb
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\saxon9he-api.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\saxon9he.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.Runtime.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.Resource.resources
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.dll
+C:\Users\Administrator\Desktop\BizTalk.PipelineComponents.ODBCTypesProcessor\obj\Debug\BizTalk.PipelineComponents.ODBCTypesProcessor.pdb

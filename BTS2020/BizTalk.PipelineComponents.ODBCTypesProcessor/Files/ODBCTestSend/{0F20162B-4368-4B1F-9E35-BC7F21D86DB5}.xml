@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ns0:TesteXMLResult xmlns:ns0="http://ODBCTest.com">
+  <test>
+    <FirstName>Fred</FirstName>
+    <LastName>Black</LastName>
+    <Address>187 Main Street</Address>
+    <Position>Sales Lead</Position>
+  </test>
+  <test>
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+    <Address>182 Front Street</Address>
+    <Position>Marketing</Position>
+  </test>
+  <test>
+    <FirstName>Sally</FirstName>
+    <LastName>White</LastName>
+    <Address>183 Main Street</Address>
+    <Position>Marketing</Position>
+  </test>
+</ns0:TesteXMLResult>

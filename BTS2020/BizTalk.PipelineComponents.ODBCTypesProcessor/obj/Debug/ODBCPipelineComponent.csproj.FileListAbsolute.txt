@@ -1,0 +1,9 @@
+C:\DEV\More Tools\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\ODBCCustomPipe\obj\Debug\ODBCPipelineComponent.csprojAssemblyReference.cache
+C:\DEV\More Tools\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\ODBCCustomPipe\obj\Debug\ODBCPipelineComponent.Resource.resources
+C:\DEV\More Tools\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\ODBCCustomPipe\obj\Debug\ODBCPipelineComponent.csproj.GenerateResource.cache
+C:\DEV\More Tools\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\ODBCCustomPipe\obj\Debug\ODBCPipelineComponent.csproj.CoreCompileInputs.cache
+C:\DEV\More Tools\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\ODBCCustomPipe\obj\Debug\ODBCPipelineComponent.dll
+C:\DEV\More Tools\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\ODBCCustomPipe\obj\Debug\ODBCPipelineComponent.pdb
+C:\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\ODBCPipelineComponent.dll
+C:\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\ODBCPipelineComponent.pdb
+C:\DEV\More Tools\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\Custom Pipeline Component for Processing DBF, Excel and other ODBC types\ODBCCustomPipe\obj\Debug\ODBCPipelineComponent.csproj.CopyComplete

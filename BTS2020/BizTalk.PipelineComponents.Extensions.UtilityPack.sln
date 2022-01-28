@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.XmlCompleteValidator", "BizTalk.PipelineComponents.XmlCompleteValidator\BizTalk.PipelineComponents.XmlCompleteValidator.csproj", "{F255F328-B1F7-4954-9427-EAB0D468DB50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.ODBCTypesProcessor", "BizTalk.PipelineComponents.ODBCTypesProcessor\BizTalk.PipelineComponents.ODBCTypesProcessor.csproj", "{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{F255F328-B1F7-4954-9427-EAB0D468DB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F255F328-B1F7-4954-9427-EAB0D468DB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F255F328-B1F7-4954-9427-EAB0D468DB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

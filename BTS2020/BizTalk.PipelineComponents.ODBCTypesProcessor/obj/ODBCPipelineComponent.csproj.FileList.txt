@@ -1,0 +1,7 @@
+..\..\..\..\..\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\ODBCPipelineComponent.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ODBCPipelineComponent.Resource.resources
+obj\Debug\ODBCPipelineComponent.csproj.GenerateResource.Cache
+obj\Debug\ODBCPipelineComponent.dll
+obj\Debug\ODBCPipelineComponent.pdb
+..\..\..\..\..\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\ODBCPipelineComponent.pdb
