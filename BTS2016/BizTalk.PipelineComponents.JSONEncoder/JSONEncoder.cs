@@ -263,7 +263,6 @@ namespace PipelineComponents.JSONEncoder
                                .Where(x => x.IsNamespaceDeclaration)
                                .Remove();
 
-                            XmlDocument node = new XmlDocument();
                             node = ToXmlDocument(xdoc);
 
                             if (this.RemoveOuterEnvelope)
