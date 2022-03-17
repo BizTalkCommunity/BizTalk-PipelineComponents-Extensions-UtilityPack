@@ -34,17 +34,21 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 * The capabilities are similar to those available in compression software such as WinZip or 7-zip:
   * This component requires two configuration that is the "FileExtension" where you can specified if you want for example a .zip or .gz file and "Enabled" that is a true or false value to activate the compression.
   
-  ### UnZip File Pipeline Component
+### UnZip File Pipeline Component
 
 * This UnZip File Pipeline Component for BizTalk Server which can be used in a Received pipeline (Disassemble stage) and it allows you to receive a compress (zip/gzip) file and extract its contents into different XML messages.
 * The capabilities are similar to those available in compression software such as WinZip or 7-zip:
   * This component doesn't requires any configurations.
   
-## XML Namespace Operations
+## XML Operations
 ### Remove Xml Namespace Pipeline Component
 
 * The RemoveXmlNamespace is a pipeline component for BizTalk Server made by Johan Hedberg which can be used to remove Xml namespaces from Xml documents inside custom pipelines.
-  * This have the availability to transform this <ns0:Blah xmlns:ns0="http://RemoveXmlNamespace.BTS.BlahMessage"> into this <Blah>:
+  * This have the availability to transform this <ns0:Blah xmlns:ns0="http://RemoveXmlNamespace.BTS.BlahMessage"> into this <Blah>
+  
+### XML Complete Validator Pipeline Component
+
+* The XML Complete Validator Pipeline Component is a component to be used on the Validate stage of a pipeline and to be used as a substitution for the out-of-the-box XML validator component. The default component stops validating the XML message after encountering an error. It doesn’t continue through the rest of the validation and provide a complete detailed list of all errors. That means that if you have several errors, you probably will test it several times and fix one issue at a time. This component will suppress this limitation/behaviour. Instead of throwing an exception the moment the first error occurs, it will validate the entire message and then provide a complete list of the errors found.
 
 ## Samples Multi-Disassembler Operations
 ### ExtractingXmlDisassembler
@@ -60,6 +64,11 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
   * In BizTalk Administration console you will be able to: 
     * select if you want to use the behavior of the default JSON Encoder pipeline component provide by Microsoft;
 	* or use the custom behavior to generate the JSON message;
+	
+### ODBC File Decoder Pipeline Component
+
+* ODBC File Decoder Pipeline Component is, as the name mentioned, a decode component that you can use in a receive pipeline to process DBF or Excel files. Still, it can be possible to process other ODBC types (maybe requiring minor adjustments). The component uses basic ADO.NET to parse the incoming DBF or Excel files into an XML document.
+* If consuming DBF files is not a typical scenario, we can’t say the same for Excel files. Yet, we often find these requirements, and there isn’t any out-of-the-box way to process these files.
   
 ## Deploying Pipeline Components
 All the .NET pipeline component assemblies (native and custom) must be located in the <installation directory>\Pipeline Components folder to be executed by the server. If the pipeline with a custom component will be deployed across several servers, the component's binaries must be present in the specified folder on every server.
