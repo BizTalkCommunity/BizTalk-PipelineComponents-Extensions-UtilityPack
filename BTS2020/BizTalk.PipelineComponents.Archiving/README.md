@@ -30,7 +30,7 @@ This is the list of properties that you can set up on the archive pipeline compo
 THIS PIPELINE COMPONENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 # About Us
-**Sandro Pereira** | [Blog](https://randypaulo.wordpress.com/2012/02/13/biztalk-archiving-sql-and-file-documentation/)
+**Randy Paulo** | [Blog](https://randypaulo.wordpress.com/2012/02/13/biztalk-archiving-sql-and-file-documentation/)
 
 **Sandro Pereira** | [DevScope](http://www.devscope.net/) | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
 
