@@ -22,3 +22,20 @@ C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\VirtualGre
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.OpenJDK.Util.dll
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.OpenJDK.Security.dll
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\saxon9he-api.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\saxon9he.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.Runtime.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\VirtualGreen.Samples.MultiDisassembler.PipelineComponents\obj\Debug\VirtualGreen.Samples.MultiDisassembler.PipelineComponents.pdb

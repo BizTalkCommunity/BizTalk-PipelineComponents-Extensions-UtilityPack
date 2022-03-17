@@ -25,3 +25,21 @@ C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.Pi
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach.csproj.CopyComplete
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\PipelineComponentMultipartMsgZipAttach.dll
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\PipelineComponentMultipartMsgZipAttach.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\PipelineComponentMultipartMsgZipAttach.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\PipelineComponentMultipartMsgZipAttach.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\saxon9he-api.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\saxon9he.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\IKVM.Runtime.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BiztalkPipelineComponentMultipartMsgZipAttach.PipelineComponentMultipartMsgZipAttach.resources
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\PipelineComponentMultipartMsgZipAttach.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.MultiPartMsg.ZipAttach\obj\Debug\PipelineComponentMultipartMsgZipAttach.pdb

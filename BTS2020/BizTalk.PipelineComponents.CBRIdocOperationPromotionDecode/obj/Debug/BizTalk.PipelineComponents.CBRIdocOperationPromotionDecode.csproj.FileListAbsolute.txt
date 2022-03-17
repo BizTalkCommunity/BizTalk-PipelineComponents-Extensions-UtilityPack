@@ -25,3 +25,21 @@ C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.Pi
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode.csproj.CopyComplete
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\CBRIdocOperationPromotionDecode.dll
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\CBRIdocOperationPromotionDecode.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\CBRIdocOperationPromotionDecode.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\CBRIdocOperationPromotionDecode.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\saxon9he-api.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\saxon9he.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\IKVM.Runtime.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\PipelineComponents.OperationPromotion.CBRIdocOperationPromotionDecode.resources
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\CBRIdocOperationPromotionDecode.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.CBRIdocOperationPromotionDecode\obj\Debug\CBRIdocOperationPromotionDecode.pdb

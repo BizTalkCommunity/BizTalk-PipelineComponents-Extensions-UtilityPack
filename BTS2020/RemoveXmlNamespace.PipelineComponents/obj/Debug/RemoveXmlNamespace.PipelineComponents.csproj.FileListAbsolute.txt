@@ -24,3 +24,20 @@ C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlN
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.csproj.CopyComplete
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.dll
 C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\RemoveXmlNamespace.PipelineComponents.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\RemoveXmlNamespace.PipelineComponents.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\saxon9he-api.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\saxon9he.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\IKVM.Runtime.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.RemoveResources.resources
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\RemoveXmlNamespace.PipelineComponents\obj\Debug\RemoveXmlNamespace.PipelineComponents.pdb

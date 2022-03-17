@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Source", "3. Source", "{7F5AAE42-BEA7-457A-9118-B2BB2C6EDE66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. GAC", "1. GAC", "{1CBCEAE4-F697-4AC1-A9BB-D83A55E27518}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. BizTalk Pipeline Folder", "2. BizTalk Pipeline Folder", "{9A128798-CCDA-41A1-AEF4-76A662C7B8A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Reference Assemblies", "2. Reference Assemblies", "{777A886B-5603-4660-AF89-A738C8A92911}"
+	ProjectSection(SolutionItems) = preProject
+		Shared Assemblies\Ionic.Zip.dll = Shared Assemblies\Ionic.Zip.dll
+		Shared Assemblies\Microsoft.BizTalk.Pipeline.dll = Shared Assemblies\Microsoft.BizTalk.Pipeline.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Database Scripts", "1. Database Scripts", "{69C04EEB-0D25-4D5C-8978-13478987ACEB}"
+	ProjectSection(SolutionItems) = preProject
+		Database Scripts\CreateDatabase.sql = Database Scripts\CreateDatabase.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.Archiving.PipelineComponents", "BizTalk.Archiving.PipelineComponents\BizTalk.Archiving.PipelineComponents.csproj", "{4EDC6B8E-29E2-4ED5-B612-34524135A95A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.Archiving.Common.Configuration", "BizTalk.Archiving.Common.Configuration\BizTalk.Archiving.Common.Configuration.csproj", "{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1CBCEAE4-F697-4AC1-A9BB-D83A55E27518} = {7F5AAE42-BEA7-457A-9118-B2BB2C6EDE66}
+		{9A128798-CCDA-41A1-AEF4-76A662C7B8A9} = {7F5AAE42-BEA7-457A-9118-B2BB2C6EDE66}
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A} = {9A128798-CCDA-41A1-AEF4-76A662C7B8A9}
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C} = {1CBCEAE4-F697-4AC1-A9BB-D83A55E27518}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7564779-51E6-45CA-962F-E5BBBDC8D4A6}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = BizTalk.Archiving.vsmdi
+	EndGlobalSection
+EndGlobal

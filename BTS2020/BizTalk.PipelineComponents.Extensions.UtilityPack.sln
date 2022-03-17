@@ -33,6 +33,22 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.ODBCTypesProcessor", "BizTalk.PipelineComponents.ODBCTypesProcessor\BizTalk.PipelineComponents.ODBCTypesProcessor.csproj", "{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BizTalk.PipelineComponents.Archiving", "BizTalk.PipelineComponents.Archiving", "{895ABC92-DEED-4440-9C3E-92DD4613DDC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Database Scripts", "1. Database Scripts", "{E50C68F3-17F2-4A93-99EC-452DF25A4E01}"
+	ProjectSection(SolutionItems) = preProject
+		BizTalk.PipelineComponents.Archiving\Database Scripts\CreateDatabase.sql = BizTalk.PipelineComponents.Archiving\Database Scripts\CreateDatabase.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Reference Assemblies", "2. Reference Assemblies", "{70607FAE-E08D-4537-AB36-732A6CC3148F}"
+	ProjectSection(SolutionItems) = preProject
+		BizTalk.PipelineComponents.Archiving\Shared Assemblies\Ionic.Zip.dll = BizTalk.PipelineComponents.Archiving\Shared Assemblies\Ionic.Zip.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.Archiving.Common.Configuration", "BizTalk.PipelineComponents.Archiving\BizTalk.Archiving.Common.Configuration\BizTalk.Archiving.Common.Configuration.csproj", "{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.Archiving.PipelineComponents", "BizTalk.PipelineComponents.Archiving\BizTalk.Archiving.PipelineComponents\BizTalk.Archiving.PipelineComponents.csproj", "{4EDC6B8E-29E2-4ED5-B612-34524135A95A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,9 +115,23 @@ Global
 		{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9E5307A-A0FC-4A55-AD41-0C94F5A705AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E50C68F3-17F2-4A93-99EC-452DF25A4E01} = {895ABC92-DEED-4440-9C3E-92DD4613DDC3}
+		{70607FAE-E08D-4537-AB36-732A6CC3148F} = {895ABC92-DEED-4440-9C3E-92DD4613DDC3}
+		{1771B0EA-2E69-4EF3-A56B-D2BBCBF8EE1C} = {895ABC92-DEED-4440-9C3E-92DD4613DDC3}
+		{4EDC6B8E-29E2-4ED5-B612-34524135A95A} = {895ABC92-DEED-4440-9C3E-92DD4613DDC3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {014AD835-9E7F-495F-A579-7F5A6B4EB817}

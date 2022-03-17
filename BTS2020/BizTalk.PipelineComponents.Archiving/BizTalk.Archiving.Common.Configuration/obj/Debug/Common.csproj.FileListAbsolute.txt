@@ -1,0 +1,7 @@
+C:\DEV\biztalkarchiving-20003\Source\Common\bin\Debug\BizTalk.Archiving.Common.Configuration.dll
+C:\DEV\biztalkarchiving-20003\Source\Common\bin\Debug\BizTalk.Archiving.Common.Configuration.pdb
+C:\DEV\biztalkarchiving-20003\Source\Common\bin\Debug\Ionic.Zip.dll
+C:\DEV\biztalkarchiving-20003\Source\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\DEV\biztalkarchiving-20003\Source\Common\obj\Debug\Common.csproj.CopyComplete
+C:\DEV\biztalkarchiving-20003\Source\Common\obj\Debug\BizTalk.Archiving.Common.Configuration.dll
+C:\DEV\biztalkarchiving-20003\Source\Common\obj\Debug\BizTalk.Archiving.Common.Configuration.pdb
