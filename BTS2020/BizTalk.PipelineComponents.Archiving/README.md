@@ -15,7 +15,7 @@ This is the list of properties that you can set up on the archive pipeline compo
 | DbConnProviderConnection | Provider | SQL | System.Data.SqlClient |
 | DbConnStrDatabase | connection string | SQL  | Data Source=localhost;Initial Catalog=BizTalkArchiveDb;Integrated Security=SSPI; |
 | DbFileExtensions | File extension to be used | SQL | .xml |
-| DbPropList | This is a set of delimited values of name & namespace of message context properties that will be passed to the stored procedure to be used for custom logging. | SQL | ReceivedFileName;http://schemas.microsoft.com/BizTalk/2003/file-properties|ReceivedPortName;http://schemas.microsoft.com/BizTalk/2003/system-properties |
+| DbPropList | This is a set of delimited values of name & namespace of message context properties that will be passed to the stored procedure to be used for custom logging. | SQL | ReceivedFileName;http://schemas.microsoft.com/BizTalk/2003/file-properties |
 | DbSPName | Stored procedure name | SQL | Built-In: InsMessages |
 | FileArchiveBackFolder | Folder / Shared Location / Network location wherein the files will be archived | File | \\archive\Test\Archive |
 | FileArchiveFileName | Name of the archive file | File | %SourceFileName%_%datetime% |
