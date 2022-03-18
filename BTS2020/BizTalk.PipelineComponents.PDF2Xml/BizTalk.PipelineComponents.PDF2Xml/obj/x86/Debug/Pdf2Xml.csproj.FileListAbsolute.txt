@@ -1,0 +1,40 @@
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\bin\Debug\Pdf2Xml.exe
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\bin\Debug\Pdf2Xml.pdb
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Interop.Acrobat.dll
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.csproj.ResolveComReference.cache
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.exe
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.pdb
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.GNU.Classpath.dll
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.Runtime.dll
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\bin\Debug\PDFBox-0.7.3.dll
+c:\users\btsuser\documents\visual studio 2010\Projects\Pdf2Xml\Pdf2Xml\bin\Debug\FontBox-0.1.0-dev.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\Pdf2Xml.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\Pdf2Xml.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\Pdf2Xml.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.csproj.CoreCompileInputs.cache
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.pdb
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\Pdf2Xml.dll.config
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\Pdf2Xml.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\Pdf2Xml.pdb
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\BouncyCastle.Crypto.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\itextsharp.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\saxon9he-api.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\saxon9he.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.Runtime.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\bin\Debug\itextsharp.xml
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.csproj.CopyComplete
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.Resource.resources
+C:\DEV\Pdf2XMLPipeline\Pdf2XMLPipeline\Pdf2Xml\Pdf2Xml\Pdf2Xml\obj\x86\Debug\Pdf2Xml.csproj.GenerateResource.cache
