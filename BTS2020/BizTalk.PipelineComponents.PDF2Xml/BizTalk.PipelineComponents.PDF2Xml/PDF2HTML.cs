@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using iTextSharp.text.pdf;
 using System.Collections.Generic;
-
+using System.Globalization;
 
 namespace BizTalk.PipelineComponents.PDF2Xml
 {
@@ -305,7 +305,8 @@ namespace BizTalk.PipelineComponents.PDF2Xml
 
                         }
 
-                        txt.X = Double.Parse(x);
+                        //txt.X = Double.Parse(x);
+                        txt.X = GetDouble(x, 0);
                         x = "";
 
                         //Get Y
@@ -319,7 +320,8 @@ namespace BizTalk.PipelineComponents.PDF2Xml
 
                         }
 
-                        txt.Y = Double.Parse(y);
+                        //txt.Y = Double.Parse(y);
+                        txt.Y = GetDouble(y, 0);
                         y = "";
 
                         //Fill text object x and y then empty the variables
@@ -362,6 +364,26 @@ namespace BizTalk.PipelineComponents.PDF2Xml
                 }
             }
             return false;
+        }
+
+        #endregion
+
+        #region Private
+
+        private double GetDouble(string value, double defaultValue)
+        {
+            double result;
+
+            // Try parsing in the current culture
+            if (!double.TryParse(value, System.Globalization.NumberStyles.Any, CultureInfo.CurrentCulture, out result) &&
+                // Then try in US english
+                !double.TryParse(value, System.Globalization.NumberStyles.Any, CultureInfo.GetCultureInfo("en-US"), out result) &&
+                // Then in neutral language
+                !double.TryParse(value, System.Globalization.NumberStyles.Any, CultureInfo.InvariantCulture, out result))
+            {
+                result = defaultValue;
+            }
+            return result;
         }
 
         #endregion
