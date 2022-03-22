@@ -13,7 +13,7 @@ Unfortunately, on my initial tests, this component works well with some PDF file
 This is the list of properties that you can set up on the archive pipeline component:
 
 | Property Name  | Description  | Sample Values |
-| -------------  | -----------  | -------  | ------------------ |
+| -------------  | -----------  | ------------- |
 | InternalProcessToHTML  | Value to decide if you want the component to transform the PDF content to HTML or XML | True/False  |
 | IsToApplyTrasnformation | Value to decide if you want to apply a transformation on the pipeline component or not | True/False |
 | XsltFilePath | Path to an XSLT transformation file | C:\transf\mymap.xslt |
