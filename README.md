@@ -19,7 +19,11 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 * Content Based Routing Component to carry forward the received SOAP Header to the ougoing message.
   * This component will access the original SOAP Header received in the source message and add it to the destination messages: OutboundCustomHeaders property (used by the WCF-BasicHTTP Adapter)
   * This component requires one configuration that is the SOAPHeaderName. A string that descrives the custom SOAP Header name to be copied to the ougoing message.
-  
+ 
+### Receive Location Name Property Promotion Pipeline Component
+
+* Simple pipeline component to promote the Receive Location Name (ReceiveLocationName) property to the context of the message. 
+ 
 ## Compression Operations
 ### Multi-Part Message Attachments Zipper Pipeline Component
 
@@ -69,6 +73,14 @@ BizTalk Pipeline Components Extensions Utility Pack is a set of custom pipeline 
 
 * ODBC File Decoder Pipeline Component is, as the name mentioned, a decode component that you can use in a receive pipeline to process DBF or Excel files. Still, it can be possible to process other ODBC types (maybe requiring minor adjustments). The component uses basic ADO.NET to parse the incoming DBF or Excel files into an XML document.
 * If consuming DBF files is not a typical scenario, we can’t say the same for Excel files. Yet, we often find these requirements, and there isn’t any out-of-the-box way to process these files.
+
+### BizTalk PDF2Xml Pipeline Component
+
+* BizTalk PDF2Xml Pipeline Component is, as the name mentioned, a decode component that transforms the content of a PDF document to an XML message that BizTalk can understand and process. The component uses the itextsharp library to extract the PDF content. The original source code was available on the CodePlex (pdf2xmlbiztalk.codeplex.com). Still, I couldn’t validate who was the original creator. So, the component first transforms the PDF content to HTML, and then using an external XSLT, will apply a transformation to convert the HTML into a know XML document that BizTalk Server can process.  
+
+### PDF Decoder Pipeline Component
+
+* PDF Decoder Pipeline Component is, as the name mentioned, a decode component that transforms the content of a PDF document to an XML message that BizTalk can understand and process. The component uses the itextsharp library to extract the PDF content. 
   
 ## Deploying Pipeline Components
 All the .NET pipeline component assemblies (native and custom) must be located in the <installation directory>\Pipeline Components folder to be executed by the server. If the pipeline with a custom component will be deployed across several servers, the component's binaries must be present in the specified folder on every server.
