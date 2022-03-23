@@ -1,0 +1,8 @@
+C:\Users\saspereira\source\repos\BizTalk.Pipeline.Components.RcvLocationPromotion\BizTalk.Pipeline.Components.RcvLocationPromotion\bin\Debug\BizTalk.Pipeline.Components.RcvLocationPromotion.dll
+C:\Users\saspereira\source\repos\BizTalk.Pipeline.Components.RcvLocationPromotion\BizTalk.Pipeline.Components.RcvLocationPromotion\bin\Debug\BizTalk.Pipeline.Components.RcvLocationPromotion.pdb
+C:\Users\saspereira\source\repos\BizTalk.Pipeline.Components.RcvLocationPromotion\BizTalk.Pipeline.Components.RcvLocationPromotion\bin\Debug\BizTalk.PipelineComponents.RcvLocNamePromotion.dll
+C:\Users\saspereira\source\repos\BizTalk.Pipeline.Components.RcvLocationPromotion\BizTalk.Pipeline.Components.RcvLocationPromotion\obj\Debug\BizTalk.Pipeline.Components.RcvLocationPromotion.btproj.CoreCompileInputs.cache
+C:\Users\saspereira\source\repos\BizTalk.Pipeline.Components.RcvLocationPromotion\BizTalk.Pipeline.Components.RcvLocationPromotion\obj\Debug\BizTalk.Pipeline.Components.RcvLocationPromotion.btproj.CopyComplete
+C:\Users\saspereira\source\repos\BizTalk.Pipeline.Components.RcvLocationPromotion\BizTalk.Pipeline.Components.RcvLocationPromotion\obj\Debug\BizTalk.Pipeline.Components.RcvLocationPromotion.dll
+C:\Users\saspereira\source\repos\BizTalk.Pipeline.Components.RcvLocationPromotion\BizTalk.Pipeline.Components.RcvLocationPromotion\obj\Debug\BizTalk.Pipeline.Components.RcvLocationPromotion.pdb
+C:\Users\saspereira\source\repos\BizTalk.Pipeline.Components.RcvLocationPromotion\BizTalk.Pipeline.Components.RcvLocationPromotion\obj\Debug\BizTalk.Pipeline.Components.RcvLocationPromotion.btprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.RcvLocNamePromotion", "ReceiveLocationNamePromotion\BizTalk.PipelineComponents.RcvLocNamePromotion.csproj", "{06DEE1A4-66B9-463C-B6B4-C2BBD2A08931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06DEE1A4-66B9-463C-B6B4-C2BBD2A08931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DEE1A4-66B9-463C-B6B4-C2BBD2A08931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DEE1A4-66B9-463C-B6B4-C2BBD2A08931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DEE1A4-66B9-463C-B6B4-C2BBD2A08931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8CD56E8-4FC0-4FE0-A240-21E098834C55}
+	EndGlobalSection
+EndGlobal

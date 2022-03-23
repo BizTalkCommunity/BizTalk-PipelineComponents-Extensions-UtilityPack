@@ -1,0 +1,6 @@
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.PDFDecoder\internal.dvs.components.pdf\bin\Debug\internal.dvs.components.pdf.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.PDFDecoder\internal.dvs.components.pdf\bin\Debug\internal.dvs.components.pdf.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.PDFDecoder\internal.dvs.components.pdf\obj\Debug\internal.dvs.components.pdf.btprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.PDFDecoder\internal.dvs.components.pdf\obj\Debug\internal.dvs.components.pdf.btproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.PDFDecoder\internal.dvs.components.pdf\obj\Debug\internal.dvs.components.pdf.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.PDFDecoder\internal.dvs.components.pdf\obj\Debug\internal.dvs.components.pdf.pdb

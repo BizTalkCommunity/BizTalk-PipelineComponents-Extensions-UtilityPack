@@ -1,0 +1,1 @@
+C:\Users\saspereira\source\repos\BizTalk.PipelineComponents.ReceiveLocationNamePromotion\BizTalk.PipelineComponents.ReceiveLocationNamePromotion\obj\Debug\BizTalk.PipelineComponents.ReceiveLocationNamePromotion.csprojAssemblyReference.cache
