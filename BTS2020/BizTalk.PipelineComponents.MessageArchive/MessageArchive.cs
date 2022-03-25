@@ -324,7 +324,6 @@ namespace BizTalk.PipelineComponents.MessageArchive
         public Microsoft.BizTalk.Message.Interop.IBaseMessage Execute(Microsoft.BizTalk.Component.Interop.IPipelineContext pContext, 
             Microsoft.BizTalk.Message.Interop.IBaseMessage pInMsg)
         {
-            bool toArchive = false;
             //Check if is to archive the message
             if (this.ArchivingEnabled)
             {
@@ -389,25 +388,25 @@ namespace BizTalk.PipelineComponents.MessageArchive
                     Regex regex = new Regex(macroRegex, RegexOptions.IgnoreCase | RegexOptions.Singleline);
                     MatchCollection listMacros = regex.Matches(this.ArchiveFilenameMacro);
 
+                    filename = this.ArchiveFilenameMacro;
+
                     // Iterate through each macro match, retrieve the context property value and 
                     // update the supplied string. If the context property value cannot be found,
                     // the macro will not be updated.
                     foreach (Match macro in listMacros)
                     {
                         string macroName = macro.Value; //Groups[2].Value;
-
-                        filename = this.ArchiveFilenameMacro;
                         filename = filename.Replace(macroName, TranslateMacro(macroName, inmsg));
                     }
                 }
-                else throw new Exception("The ArchiveFilenameMacro property does not contain any macro. Please clean that field or add a macro to the file name template like: %SourceFileName%_%datetime%.xml. Available macros are %datetime%, %MessageID%, %FileName%, %FileNameWithoutExtension%, %FileNameExtension%, %Day%, %Month%, %Year%, %time%, %ReceicePort%, %ReceiveLocation%. %SendPort%, %InboundTransportType%, %InterchangeID%");
+                else throw new Exception("The ArchiveFilenameMacro property does not contain any macro. Please clean that field or add a macro to the file name template like: %SourceFileName%_%datetime%.xml. Available macros are %datetime%, %MessageID%, %FileName%, %FileNameWithoutExtension%, %FileNameExtension%, %Day%, %Month%, %Year%, %time%, %ReceivePort%, %ReceiveLocation%. %SendPort%, %InboundTransportType%, %InterchangeID%");
 
             }
 
             if(String.IsNullOrEmpty(filename))
                 throw new Exception("Message Archive component was unable to define an archive filename.");
 
-            return filename;
+            return Path.GetFileName(filename);
         }
 
         /// <summary>
@@ -421,7 +420,7 @@ namespace BizTalk.PipelineComponents.MessageArchive
 
             if (String.IsNullOrEmpty(this.ArchiveFilePath))
             {
-                throw new Exception("You need to define a valid archive path. You can make use of the available macros are %datetime%, %MessageID%, %FileName%, %FileNameWithoutExtension%, %FileNameExtension%, %Day%, %Month%, %Year%, %time%, %ReceicePort%, %ReceiveLocation%. %SendPort%, %InboundTransportType%, %InterchangeID%");
+                throw new Exception("You need to define a valid archive path. You can make use of the available macros are %datetime%, %MessageID%, %FileName%, %FileNameWithoutExtension%, %FileNameExtension%, %Day%, %Month%, %Year%, %time%, %ReceivePort%, %ReceiveLocation%. %SendPort%, %InboundTransportType%, %InterchangeID%");
             }
             else
             {
@@ -434,14 +433,14 @@ namespace BizTalk.PipelineComponents.MessageArchive
                     Regex regex = new Regex(macroRegex, RegexOptions.IgnoreCase | RegexOptions.Singleline);
                     MatchCollection listMacros = regex.Matches(this.ArchiveFilePath);
 
+                    filepath = this.ArchiveFilePath;
+
                     // Iterate through each macro match, retrieve the context property value and 
                     // update the supplied string. If the context property value cannot be found,
                     // the macro will not be updated.
                     foreach (Match macro in listMacros)
                     {
                         string macroName = macro.Value; //Groups[2].Value;
-
-                        filepath = this.ArchiveFilePath;
                         filepath = filepath.Replace(macroName, TranslateMacro(macroName, inmsg));
                     }
                 }
@@ -463,7 +462,10 @@ namespace BizTalk.PipelineComponents.MessageArchive
         {
             string sufixFilename = "";
 
-            if (this.ArchiveFilenameMacro.Contains("%"))
+            if (String.IsNullOrEmpty(this.AdditionalMacroIfExists))
+                return sufixFilename;
+
+            if (this.AdditionalMacroIfExists.Contains("%"))
             {
                 // Define Macro Regular Expression.
                 const string macroRegex = "(%)((?:[a-z][a-z]+))(%)";
@@ -472,18 +474,18 @@ namespace BizTalk.PipelineComponents.MessageArchive
                 Regex regex = new Regex(macroRegex, RegexOptions.IgnoreCase | RegexOptions.Singleline);
                 MatchCollection listMacros = regex.Matches(this.AdditionalMacroIfExists);
 
+                sufixFilename = this.AdditionalMacroIfExists;
+
                 // Iterate through each macro match, retrieve the context property value and 
                 // update the supplied string. If the context property value cannot be found,
                 // the macro will not be updated.
                 foreach (Match macro in listMacros)
                 {
                     string macroName = macro.Value; //Groups[2].Value;
-
-                    sufixFilename = this.AdditionalMacroIfExists;
                     sufixFilename = sufixFilename.Replace(macroName, TranslateMacro(macroName, inmsg));
                 }
             }
-            else throw new Exception("The ArchiveFilenameMacro property does not contain any macro. Please clean that field or add a macro to the file name template like: %SourceFileName%_%datetime%.xml. Available macros are %datetime%, %MessageID%, %FileName%, %FileNameWithoutExtension%, %FileNameExtension%, %Day%, %Month%, %Year%, %time%, %ReceicePort%, %ReceiveLocation%. %SendPort%, %InboundTransportType%, %InterchangeID%");
+            else throw new Exception("The ArchiveFilenameMacro property does not contain any macro. Please clean that field or add a macro to the file name template like: %SourceFileName%_%datetime%.xml. Available macros are %datetime%, %MessageID%, %FileName%, %FileNameWithoutExtension%, %FileNameExtension%, %Day%, %Month%, %Year%, %time%, %ReceivePort%, %ReceiveLocation%. %SendPort%, %InboundTransportType%, %InterchangeID%");
 
             if (String.IsNullOrEmpty(sufixFilename))
                 throw new Exception("Message Archive component was unable to define an sufix archive filename.");
@@ -532,7 +534,7 @@ namespace BizTalk.PipelineComponents.MessageArchive
                 case "%time%":
                     macroValue = DateTime.Now.ToString("hhmmss");
                     break;
-                case "%ReceicePort%":
+                case "%ReceivePort%":
                     macroValue = inmsg.Context.Read("ReceivePortName", "http://schemas.microsoft.com/BizTalk/2003/system-properties").ToString();
                     break;
                 case "%ReceiveLocation%":
@@ -606,11 +608,13 @@ namespace BizTalk.PipelineComponents.MessageArchive
 
             // If the file exists **and** the file should not be overwritten, add a GUID onto the end 
             // of the filename before the file extension.
-            if (File.Exists(fileName + filePath) && this.OverwriteExistingFile != true)
+            if (File.Exists(filePath + fileName) && this.OverwriteExistingFile != true)
             {
                 
                 string additionalMacro = DefineTNonDuplicationMacro(inmsg);
-                archiveFilename = filePath + Path.GetFileNameWithoutExtension(fileName) + additionalMacro + Path.GetExtension(fileName);
+                if(String.IsNullOrEmpty(additionalMacro))
+                    archiveFilename = filePath + Path.GetFileNameWithoutExtension(fileName) + "-" + inmsg.MessageID.ToString() + Path.GetExtension(fileName);
+                else archiveFilename = filePath + Path.GetFileNameWithoutExtension(fileName) + additionalMacro + Path.GetExtension(fileName);
             }
             else archiveFilename = filePath + fileName;
 
