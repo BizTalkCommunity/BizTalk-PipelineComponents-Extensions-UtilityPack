@@ -29,7 +29,7 @@ namespace BizTalk.Archiving.PipelineComponents
     public class ArchiveComponent : Microsoft.BizTalk.Component.Interop.IComponent, IBaseComponent, IPersistPropertyBag, IComponentUI
     {
         
-        private System.Resources.ResourceManager _resourceManager = new System.Resources.ResourceManager("BizTalk.Archiving.PipelineComponents.ArchiveComponent", Assembly.GetExecutingAssembly());
+        private System.Resources.ResourceManager resourceManager = new System.Resources.ResourceManager("BizTalk.Archiving.PipelineComponents.ArchiveComponent", Assembly.GetExecutingAssembly());
         
         #region IBaseComponent members
 
@@ -41,7 +41,7 @@ namespace BizTalk.Archiving.PipelineComponents
         {
             get
             {
-                return _resourceManager.GetString("COMPONENTNAME", CultureInfo.InvariantCulture);
+                return resourceManager.GetString("COMPONENTNAME", CultureInfo.InvariantCulture);
             }
         }
         
@@ -53,7 +53,7 @@ namespace BizTalk.Archiving.PipelineComponents
         {
             get
             {
-                return _resourceManager.GetString("COMPONENTVERSION", CultureInfo.InvariantCulture);
+                return resourceManager.GetString("COMPONENTVERSION", CultureInfo.InvariantCulture);
             }
         }
         
@@ -65,7 +65,7 @@ namespace BizTalk.Archiving.PipelineComponents
         {
             get
             {
-                return _resourceManager.GetString("COMPONENTDESCRIPTION", CultureInfo.InvariantCulture);
+                return resourceManager.GetString("COMPONENTDESCRIPTION", CultureInfo.InvariantCulture);
             }
         }
 
@@ -358,7 +358,7 @@ namespace BizTalk.Archiving.PipelineComponents
         {
             get
             {
-                return ((System.Drawing.Bitmap)(this._resourceManager.GetObject("COMPONENTICON", CultureInfo.InvariantCulture))).GetHicon();
+                return ((System.Drawing.Bitmap)(this.resourceManager.GetObject("COMPONENTICON", CultureInfo.InvariantCulture))).GetHicon();
             }
         }
         

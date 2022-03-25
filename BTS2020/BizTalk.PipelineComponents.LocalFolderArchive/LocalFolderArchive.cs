@@ -228,11 +228,6 @@ namespace BizTalk.PipelineComponents.LocalFolderArchive
         /// </remarks>
         public Microsoft.BizTalk.Message.Interop.IBaseMessage Execute(Microsoft.BizTalk.Component.Interop.IPipelineContext pc, Microsoft.BizTalk.Message.Interop.IBaseMessage inmsg)
         {
-            // 
-            // TODO: implement component logic
-            // 
-            // this way, it's a passthrough pipeline component
-
             if (this.PerformBackup)
             {
                 try

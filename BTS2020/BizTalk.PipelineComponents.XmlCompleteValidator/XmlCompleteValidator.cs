@@ -40,7 +40,7 @@ namespace BizTalk.PipelineComponents.XmlCompleteValidator
     [ComponentCategory(CategoryTypes.CATID_Validate)]
     public class XmlCompleteValidator : Microsoft.BizTalk.Component.Interop.IComponent, IBaseComponent, IPersistPropertyBag, IComponentUI
     {
-        private ResourceManager _resourceManager = new ResourceManager("BizTalk.PipelineComponents.XmlCompleteValidator.XmlCompleteValidator", Assembly.GetExecutingAssembly());
+        private ResourceManager resourceManager = new ResourceManager("BizTalk.PipelineComponents.XmlCompleteValidator.XmlCompleteValidator", Assembly.GetExecutingAssembly());
 		private static PropertyBase _documentSpecNameProperty;
 		private string _concatDocSpecNames;
 		private string _concatDocSpecTargetNamespaces;
@@ -108,7 +108,7 @@ namespace BizTalk.PipelineComponents.XmlCompleteValidator
         {
             get
             {
-                return this._resourceManager.GetString("COMPONENTNAME", CultureInfo.InvariantCulture);
+                return this.resourceManager.GetString("COMPONENTNAME", CultureInfo.InvariantCulture);
             }
         }
         
@@ -120,7 +120,7 @@ namespace BizTalk.PipelineComponents.XmlCompleteValidator
         {
             get
             {
-                return this._resourceManager.GetString("COMPONENTVERSION", CultureInfo.InvariantCulture);
+                return this.resourceManager.GetString("COMPONENTVERSION", CultureInfo.InvariantCulture);
             }
         }
         
@@ -132,7 +132,7 @@ namespace BizTalk.PipelineComponents.XmlCompleteValidator
         {
             get
             {
-                return this._resourceManager.GetString("COMPONENTDESCRIPTION", CultureInfo.InvariantCulture);
+                return this.resourceManager.GetString("COMPONENTDESCRIPTION", CultureInfo.InvariantCulture);
             }
         }
 
@@ -148,7 +148,7 @@ namespace BizTalk.PipelineComponents.XmlCompleteValidator
 		{
 			get
 			{
-				return ((System.Drawing.Bitmap)(this._resourceManager.GetObject("COMPONENTICON", CultureInfo.InvariantCulture))).GetHicon();
+				return ((System.Drawing.Bitmap)(this.resourceManager.GetObject("COMPONENTICON", CultureInfo.InvariantCulture))).GetHicon();
 			}
 		}
 

@@ -176,10 +176,12 @@ namespace BizTalk.PipelineComponents.ZipFile
                         compressedPartBuffer = outStream.ToArray();
                     }
 
-                    MemoryStream tempMemStream = new MemoryStream(currentPartBuffer);
+                    MemoryStream tempMemStream = new MemoryStream(compressedPartBuffer); //currentPartBuffer)**;
                     pInMsg.BodyPart.Data = tempMemStream;
 
-                    string sourcePartName = fileName + this.FileExtension;
+                    //string sourcePartName = fileName + this.FileExtension;
+                    string sourcePartName = fileName.Substring(0, fileName.LastIndexOf('.')) + this.FileExtension; // fil.xml -> fil.zip (including '.')
+
 
                     pInMsg.Context.Promote("ReceivedFileName", "http://schemas.microsoft.com/BizTalk/2003/file-properties", sourcePartName);
                 }

@@ -26,7 +26,7 @@ namespace BizTalk.PipelineComponents.PDFDecoder
     public class BizTalkPipelineComponentsPDFDecoder : Microsoft.BizTalk.Component.Interop.IComponent, IBaseComponent, IPersistPropertyBag, IComponentUI
     {
         
-        private System.Resources.ResourceManager _resourceManager = new System.Resources.ResourceManager("BizTalk.PipelineComponents.PDFDecoder.BizTalkPipelineComponentsPDFDecoder", Assembly.GetExecutingAssembly());
+        private System.Resources.ResourceManager resourceManager = new System.Resources.ResourceManager("BizTalk.PipelineComponents.PDFDecoder.BizTalkPipelineComponentsPDFDecoder", Assembly.GetExecutingAssembly());
         
         #region IBaseComponent members
         /// <summary>
@@ -37,7 +37,7 @@ namespace BizTalk.PipelineComponents.PDFDecoder
         {
             get
             {
-                return _resourceManager.GetString("COMPONENTNAME", CultureInfo.InvariantCulture);
+                return resourceManager.GetString("COMPONENTNAME", CultureInfo.InvariantCulture);
             }
         }
         
@@ -49,7 +49,7 @@ namespace BizTalk.PipelineComponents.PDFDecoder
         {
             get
             {
-                return _resourceManager.GetString("COMPONENTVERSION", CultureInfo.InvariantCulture);
+                return resourceManager.GetString("COMPONENTVERSION", CultureInfo.InvariantCulture);
             }
         }
         
@@ -61,7 +61,7 @@ namespace BizTalk.PipelineComponents.PDFDecoder
         {
             get
             {
-                return _resourceManager.GetString("COMPONENTDESCRIPTION", CultureInfo.InvariantCulture);
+                return resourceManager.GetString("COMPONENTDESCRIPTION", CultureInfo.InvariantCulture);
             }
         }
         #endregion
@@ -158,7 +158,7 @@ namespace BizTalk.PipelineComponents.PDFDecoder
         {
             get
             {
-                return ((System.Drawing.Bitmap)(this._resourceManager.GetObject("COMPONENTICON", CultureInfo.InvariantCulture))).GetHicon();
+                return ((System.Drawing.Bitmap)(this.resourceManager.GetObject("COMPONENTICON", CultureInfo.InvariantCulture))).GetHicon();
             }
         }
         
