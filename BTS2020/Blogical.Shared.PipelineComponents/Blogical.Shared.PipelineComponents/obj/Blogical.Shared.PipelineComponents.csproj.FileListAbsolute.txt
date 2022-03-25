@@ -1,0 +1,14 @@
+E:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.SqlArchiveComponents.resources
+E:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.GenerateResource.Cache
+E:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\SqlArchiveComponents.dll
+E:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\SqlArchiveComponents.pdb
+C:\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\Blogical.Shared.PipelineComponents.dll
+E:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.dll
+E:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.pdb
+D:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.GenerateResource.Cache
+D:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.dll
+D:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.pdb
+C:\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\Blogical.Shared.PipelineComponents.pdb
+D:\Projects\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.SqlArchiveComponentsResources.resources

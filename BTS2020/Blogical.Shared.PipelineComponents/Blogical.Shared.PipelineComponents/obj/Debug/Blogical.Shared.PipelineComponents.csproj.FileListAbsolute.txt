@@ -1,0 +1,16 @@
+C:\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\Blogical.Shared.PipelineComponents.dll
+C:\Program Files\Microsoft BizTalk Server 2006\Pipeline Components\Blogical.Shared.PipelineComponents.pdb
+C:\Temp\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csprojAssemblyReference.cache
+C:\Temp\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.SqlArchiveComponentsResources.resources
+C:\Temp\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.GenerateResource.cache
+C:\Temp\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.CoreCompileInputs.cache
+C:\Temp\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.CopyComplete
+C:\Temp\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.dll
+C:\Temp\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.SqlArchiveComponentsResources.resources
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.pdb
