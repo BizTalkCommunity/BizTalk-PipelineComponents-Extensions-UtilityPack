@@ -63,7 +63,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.Pipeline.Components
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.RcvLocNamePromotion", "RL\ReceiveLocationNamePromotion\ReceiveLocationNamePromotion\BizTalk.PipelineComponents.RcvLocNamePromotion.csproj", "{06DEE1A4-66B9-463C-B6B4-C2BBD2A08931}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Archiving", "Archiving", "{DB777AA5-93FB-43A1-828A-E2819A6C45EB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Archiving Components", "Archiving Components", "{DB777AA5-93FB-43A1-828A-E2819A6C45EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.MessageArchive", "BizTalk.PipelineComponents.MessageArchive\BizTalk.PipelineComponents.MessageArchive.csproj", "{932832A9-D36E-4C86-B34E-E8C748BD7054}"
 EndProject
