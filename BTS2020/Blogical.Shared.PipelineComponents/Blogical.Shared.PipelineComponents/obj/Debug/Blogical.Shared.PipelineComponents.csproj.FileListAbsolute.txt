@@ -14,3 +14,15 @@ C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Sha
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.csproj.CopyComplete
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.dll
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\obj\Debug\Blogical.Shared.PipelineComponents.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\Blogical.Shared.PipelineComponents.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\Blogical.Shared.PipelineComponents.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\Microsoft.BizTalk.Streaming.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\saxon9he-api.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\saxon9he.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\IKVM.Runtime.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\Blogical.Shared.PipelineComponents\Blogical.Shared.PipelineComponents\bin\Debug\IKVM.OpenJDK.Security.dll
