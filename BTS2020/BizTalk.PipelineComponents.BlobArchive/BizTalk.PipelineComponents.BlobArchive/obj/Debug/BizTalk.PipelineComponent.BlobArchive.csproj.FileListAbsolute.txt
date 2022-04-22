@@ -151,12 +151,6 @@ C:\DEV\BizTalk.PipelineComponent.BlobArchive\BizTalk.PipelineComponent.BlobArchi
 C:\DEV\BizTalk.PipelineComponent.BlobArchive\BizTalk.PipelineComponent.BlobArchive\BizTalk.PipelineComponent.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.csproj.CopyComplete
 C:\DEV\BizTalk.PipelineComponent.BlobArchive\BizTalk.PipelineComponent.BlobArchive\BizTalk.PipelineComponent.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.dll
 C:\DEV\BizTalk.PipelineComponent.BlobArchive\BizTalk.PipelineComponent.BlobArchive\BizTalk.PipelineComponent.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.pdb
-C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.csprojAssemblyReference.cache
-C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.BlobArchiving.resources
-C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.csproj.GenerateResource.cache
-C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.csproj.CoreCompileInputs.cache
-C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.dll
-C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.pdb
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\bin\Debug\BizTalk.PipelineComponent.BlobArchive.dll.config
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\bin\Debug\BizTalk.PipelineComponent.BlobArchive.dll
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\bin\Debug\BizTalk.PipelineComponent.BlobArchive.pdb
@@ -197,4 +191,10 @@ C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.Pipe
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\bin\Debug\System.Numerics.Vectors.xml
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.BlobArchiving.resources
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.csproj.CoreCompileInputs.cache
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.BlobArchive\BizTalk.PipelineComponents.BlobArchive\obj\Debug\BizTalk.PipelineComponent.BlobArchive.pdb
