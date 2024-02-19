@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponent.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.SendFileToDateBasedStructure", "BizTalk.PipelineComponents.SendFileToDateBasedStructure\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csproj", "{3C1A6023-1053-41E4-96C4-424C81E9F6A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk.PipelineComponents.RemoveXmlEmptyNodes", "BizTalk.PipelineComponents.RemoveXmlEmptyNodes\BizTalk.PipelineComponents.RemoveXmlEmptyNodes.csproj", "{A0C27973-C13D-4F95-BEE1-CC9B10958A81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +307,14 @@ Global
 		{3C1A6023-1053-41E4-96C4-424C81E9F6A8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C1A6023-1053-41E4-96C4-424C81E9F6A8}.Release|x86.ActiveCfg = Release|Any CPU
 		{3C1A6023-1053-41E4-96C4-424C81E9F6A8}.Release|x86.Build.0 = Release|Any CPU
+		{A0C27973-C13D-4F95-BEE1-CC9B10958A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C27973-C13D-4F95-BEE1-CC9B10958A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C27973-C13D-4F95-BEE1-CC9B10958A81}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A0C27973-C13D-4F95-BEE1-CC9B10958A81}.Debug|x86.Build.0 = Debug|Any CPU
+		{A0C27973-C13D-4F95-BEE1-CC9B10958A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C27973-C13D-4F95-BEE1-CC9B10958A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C27973-C13D-4F95-BEE1-CC9B10958A81}.Release|x86.ActiveCfg = Release|Any CPU
+		{A0C27973-C13D-4F95-BEE1-CC9B10958A81}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
