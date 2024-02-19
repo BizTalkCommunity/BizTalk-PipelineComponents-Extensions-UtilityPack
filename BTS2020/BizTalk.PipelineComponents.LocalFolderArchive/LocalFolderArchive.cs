@@ -258,7 +258,12 @@ namespace BizTalk.PipelineComponents.LocalFolderArchive
                         }
                     }
 
-                    SaveStreamToFile(inmsg.BodyPart.Data, fileName, true);
+                    Stream msgStream = inmsg.BodyPart.Data;
+
+                    MemoryStream outStream = new MemoryStream();
+                    msgStream.CopyTo(outStream);
+
+                    SaveStreamToFile(outStream, Path.Combine(Folder, Path.GetFileName(fileName)), true);
 
                     inmsg.BodyPart.Data.Position = 0;
                 }

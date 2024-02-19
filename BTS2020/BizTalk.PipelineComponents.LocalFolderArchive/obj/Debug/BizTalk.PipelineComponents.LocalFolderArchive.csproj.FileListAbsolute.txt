@@ -41,3 +41,4 @@ C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.Pipe
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.LocalFolderArchive\obj\Debug\BizTalk.PipelineComponents.LocalFolderArchive.csproj.CopyComplete
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.LocalFolderArchive\obj\Debug\BizTalk.PipelineComponents.LocalFolderArchive.dll
 C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.LocalFolderArchive\obj\Debug\BizTalk.PipelineComponents.LocalFolderArchive.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.LocalFolderArchive\obj\Debug\BizTalk.PipelineComponents.LocalFolderArchive.csprojAssemblyReference.cache

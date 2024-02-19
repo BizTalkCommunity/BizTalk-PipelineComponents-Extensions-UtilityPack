@@ -1,0 +1,60 @@
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.pdb
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Messaging.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Streaming.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.StreamProcessing.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.FlatFile.Parser.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Interop.Agent.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.XLANGs.RuntimeTypes.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\saxon9he-api.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.CommonSettings.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\saxon9he.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.Runtime.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Utilities.ARMClient.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.Identity.Client.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csprojAssemblyReference.cache
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.SendFileToDateBasedStructure.resources
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csproj.GenerateResource.cache
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csproj.CoreCompileInputs.cache
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csproj.CopyComplete
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.dll
+C:\DEV\Pet Projects\BizTalk PipelineComponents Extensions UtilityPack\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.pdb
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Messaging.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Streaming.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.StreamProcessing.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.FlatFile.Parser.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Interop.Agent.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.XLANGs.RuntimeTypes.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\saxon9he-api.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.CommonSettings.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\saxon9he.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.Runtime.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.BizTalk.Utilities.ARMClient.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Microsoft.Identity.Client.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csprojAssemblyReference.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.SendFileToDateBasedStructure.resources
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csproj.GenerateResource.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csproj.CoreCompileInputs.cache
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.csproj.CopyComplete
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.dll
+C:\GitHub\BizTalk-PipelineComponents-Extensions-UtilityPack\BTS2020\BizTalk.PipelineComponents.SendFileToDateBasedStructure\obj\Debug\BizTalk.PipelineComponents.SendFileToDateBasedStructure.pdb
